@@ -8,7 +8,7 @@
     --MENU-LINK-color:black;
     --MENU-ACTIVE-BACK-color:#505050;
     --MENU-ACTIVE-LINK-color:white;
-    
+
 }
 a, #sidebar ul li.visited > a .read-icon {
 	color: var(--SIDE-MAIN-color);
@@ -57,5 +57,3 @@ a:hover {
 .footline {
 	border-color: var(--SIDE-FOCUS-BACK-color);
 }
-
-
